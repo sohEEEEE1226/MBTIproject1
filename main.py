@@ -3,7 +3,7 @@ import random
 import time
  
 st.set_page_config(
-    page_title="✨소희의 MBTI 포켓몬 매칭 ✨",
+    page_title="✨ 소희의 MBTI 포켓몬 매칭 ✨",
     page_icon="🎮",
     layout="centered"
 )
@@ -471,7 +471,7 @@ st.markdown("""
 # 헤더
 # ─────────────────────────────────────────────
  
-st.markdown('<div class="main-title">✨ MBTI 포켓몬 매칭 ✨</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">✨ 소희의 MBTI 포켓몬 매칭 ✨</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">🔮 나와 닮은 포켓몬은 누구일까? 지금 바로 알아봐요! 🎮</div>', unsafe_allow_html=True)
  
 # 랜덤 이모지 배너
@@ -663,3 +663,4 @@ st.markdown("""
     💜 포켓몬 이미지 출처: PokéAPI • Made with Streamlit 🎈
 </div>
 """, unsafe_allow_html=True)
+ 
