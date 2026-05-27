@@ -3,7 +3,7 @@ import random
 import time
  
 st.set_page_config(
-    page_title="✨ MBTI 포켓몬 매칭 ✨",
+    page_title="✨소희의 MBTI 포켓몬 매칭 ✨",
     page_icon="🎮",
     layout="centered"
 )
